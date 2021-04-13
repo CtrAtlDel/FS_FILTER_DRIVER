@@ -1,0 +1,26 @@
+﻿  Building 'MyFsfilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\MyFsfilter.inf
+  Stamping [Version] section with DriverVer=04/01/2020,18.6.14.305
+C:\Users\Ivan\source\repos\MyFsfilter\MyFsfilter\MyFsfilter.inf : warning 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+C:\Users\Ivan\source\repos\MyFsfilter\MyFsfilter\MyFsfilter.inf(24-24): warning 1421: Section [DefaultInstall] should have an architecture decoration.
+C:\Users\Ivan\source\repos\MyFsfilter\MyFsfilter\MyFsfilter.inf(35-35): warning 1421: Section [DefaultUninstall] should have an architecture decoration.
+C:\Users\Ivan\source\repos\MyFsfilter\MyFsfilter\MyFsfilter.inf(73-73): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  MyFsfilter.c
+  MyFsfilter.vcxproj -> C:\Users\Ivan\source\repos\MyFsfilter\x64\Debug\MyFsfilter.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Ivan\source\repos\MyFsfilter\x64\Debug\MyFsfilter.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\Ivan\source\repos\MyFsfilter\x64\Debug\MyFsfilter\myfsfilter.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Ivan\source\repos\MyFsfilter\x64\Debug\MyFsfilter\myfsfilter.cat
+  
